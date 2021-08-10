@@ -8,6 +8,7 @@ Java is required for installation of this mod and others. If you already have of
   1. Navigate to the [Adoptium release download page](https://adoptium.net/releases.html).
   2. At step 1. under version, select `OpenJDK 16 (Latest)`.
   3. Find the Windows version (or select Windows from the `Operating System` drop-down) and then select the `.msi` file download.
+> ![](https://raw.githubusercontent.com/daxnation/minecraft/main/guide_pictures/setup_openjdk/Adoptium_release_page.png)
   4. Run the installer to install OpenJDK. The defaults should be fine and should add the appropriate settings to run Java from the command line.
 > ![](https://raw.githubusercontent.com/daxnation/minecraft/main/guide_pictures/setup_openjdk/JDK_Setup_Options.png)
   5. Finish the installation.
