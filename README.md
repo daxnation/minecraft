@@ -3,7 +3,7 @@
 ## Minecraft Modding
 In this section you can find a couple of mods that you can apply to Minecraft to increase performance and add some quality of life improvements to Minecraft.
 
-### Table of Contents
+### Minecraft Modding - Table of Contents
 - [Setup OpenJDK](https://github.com/daxnation/minecraft/blob/main/README.md#setup-openjdk)
 - [Install Iris Mod](https://github.com/daxnation/minecraft/blob/main/README.md#install-iris-mod)
 - [Installing Fabric Mods](https://github.com/daxnation/minecraft/blob/main/README.md#installing-fabric-mods)
