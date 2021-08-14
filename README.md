@@ -1,7 +1,7 @@
 # Minecraft!
 
 ## Minecraft Mods
-In this section you can find a couple of mods that you can apply to Minecraft to expose some additional performance and visual tweaks (OptiFine) and some texture packs that Garak (and maybe others!) are using that have little to no performance impact.
+In this section you can find a couple of mods that you can apply to Minecraft to increase performance and add some quality of life improvements to Minecraft.
 
 ### Setup OpenJDK
 Java is required for installation of this mod and others. If you already have official Oracle Java installed on your computer, you can skip this guide and move onto installing Mods. The Oracle Java runtime now has strict licensing requirements and is often more insecure than the open version (in my opinion), so this guide will walk through downloading the latest version of OpenJDK from the Eclipse group's Adoptium Project.
