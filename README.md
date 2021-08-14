@@ -45,7 +45,7 @@ The Iris Mod bundles custom routines and a custom fork of the Sodium renderer fo
   8. Here is an example of Mod Menu with several Fabric Mods installed!
 > ![](https://raw.githubusercontent.com/daxnation/minecraft/main/guide_pictures/iris_mod/Mod_Menu_Example.png)
 
-### Recommend Fabric Mods
+### Recommended Fabric Mods
 I have installed several mods that aim to increase performance in Minecraft along with Iris. Links and descriptions below!
   - [Hydrogen](https://modrinth.org/mod/hydrogen) - This mod aims to reduce Minecraft's memory usage. I've seen a significant reduction in memory usage using this mod.
   - [Lithium for Fabric](https://www.curseforge.com/minecraft/mc-mods/lithium) - This mod makes some adjustment to a number of ingame systems to reduce their CPU usage and can help improve the game's responsiveness and framerate.
