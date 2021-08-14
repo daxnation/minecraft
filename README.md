@@ -1,7 +1,13 @@
 # Minecraft!
 
-## Minecraft Mods
+## Minecraft Modding
 In this section you can find a couple of mods that you can apply to Minecraft to increase performance and add some quality of life improvements to Minecraft.
+
+### Table of Contents
+- [Setup OpenJDK](https://github.com/daxnation/minecraft/blob/main/README.md#setup-openjdk)
+- [Install Iris Mod](https://github.com/daxnation/minecraft/blob/main/README.md#install-iris-mod)
+- [Installing Fabric Mods](https://github.com/daxnation/minecraft/blob/main/README.md#installing-fabric-mods)
+- [Recommended Fabric Mods](https://github.com/daxnation/minecraft/blob/main/README.md#recommended-fabric-mods)
 
 ### Setup OpenJDK
 Java is required for installation of this mod and others. If you already have official Oracle Java installed on your computer, you can skip this guide and move onto installing Mods. The Oracle Java runtime now has strict licensing requirements and is often more insecure than the open version (in my opinion), so this guide will walk through downloading the latest version of OpenJDK from the Eclipse group's Adoptium Project.
