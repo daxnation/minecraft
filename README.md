@@ -19,7 +19,7 @@ Java is required for installation of this mod and others. If you already have of
 > ![](https://raw.githubusercontent.com/daxnation/minecraft/main/guide_pictures/setup_openjdk/JDK_Setup_Options.png)
   5. Finish the installation.
 
-### Install Iris Mod
+### Install or Update Iris Mod
 The Iris Mod bundles custom routines and a custom fork of the Sodium renderer for tons of performance and high mod compatibility. This guide will walk through installing Iris as a Fabric mod (using the Iris installer).
   1. If you haven't done so already, open the Minecraft Launcher and run your current installation of Minecraft. You can quit once it gets to the main menu.
   2. Navigate to the [Iris Download Page](https://irisshaders.net/download.html) and click `Download Universal Jar`.
@@ -29,8 +29,10 @@ The Iris Mod bundles custom routines and a custom fork of the Sodium renderer fo
   6. On the window that opens, select your current game version (1.17.1 as of this writing) and check `Install as Fabric Mod`.
 > ![](https://raw.githubusercontent.com/daxnation/minecraft/main/guide_pictures/iris_mod/Iris_Installer_Options.png)
   7. Click `Install` and the mod install will run. The progress bar will hit 100% and say `Installation complete!`
-  8. Close the install and your cmd or Powershell window.
-  9. Open the Minecraft Launcher and, if it is not already, select the Fabric 1.17.1 (or your current version) installation and then click Play.
+  8. NOTE: If Iris is already installed as a Fabric Mod and you are updating Iris to the latest version, this message will appear. Simply click yes, and the installer will automatically remove the old version of Iris and put the new version in its place!
+> ![](https://raw.githubusercontent.com/daxnation/minecraft/main/guide_pictures/iris_mod/Iris_Installer_Update_Prompt.png)
+  9. Close the install and your cmd or Powershell window.
+  10. Open the Minecraft Launcher and, if it is not already, select the Fabric 1.17.1 (or your current version) installation and then click Play.
 > ![](https://raw.githubusercontent.com/daxnation/minecraft/main/guide_pictures/iris_mod/Minecraft_Launcher_Iris.png)
   10. You will get a warning about running modified content, check the box and click Continue (or play, I didn't get a chance to grab a screenshot).
   11. Connect to the Minecraft server and once loaded in, hit `F3` to bring up performance metrics. You should see `Iris Version: X.X.X.X` on the right side of the screen towards the middle.
