@@ -5,7 +5,7 @@ In this section you can find a couple of mods that you can apply to Minecraft to
 
 ### Minecraft Modding - Table of Contents
 - [Setup OpenJDK](https://github.com/daxnation/minecraft/blob/main/README.md#setup-openjdk)
-- [Install Iris Mod](https://github.com/daxnation/minecraft/blob/main/README.md#install-iris-mod)
+- [Install or Update Iris Mod](https://github.com/daxnation/minecraft/blob/main/README.md#install-or-update-iris-mod)
 - [Installing Fabric Mods](https://github.com/daxnation/minecraft/blob/main/README.md#installing-fabric-mods)
 - [Recommended Fabric Mods](https://github.com/daxnation/minecraft/blob/main/README.md#recommended-fabric-mods)
 
